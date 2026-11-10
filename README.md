@@ -14,3 +14,9 @@
 - 記事完成後にnoindexを解除し、robots.txtとsitemap.xmlを公開URLに合わせて更新
 
 現在は公開準備用のnoindexページです。
+
+## Cloudflare Pages 公開URL（2026-11-10確認）
+- プロジェクト: `sleep-guide`
+- URL: https://sleep-guide.pages.dev
+- Cloudflare管理画面のプロジェクト一覧スクリーンショットで確認済み。
+- デプロイ履歴あり。HTTPアクセス・表示動作・検索公開状態は別途検証する。
