@@ -20,4 +20,4 @@ Google検索とChatGPT Search・Gemini・Perplexity等のAI検索で、一次情
 - 更新日・根拠URL・内容の変更履歴を維持し、SEOとAI流入を計測して改善する。
 
 ## 現在の状態
-新規3サイトは公開準備中。noindexとrobots.txtのDisallowは、広告導線・画像・記事品質・正式URLを確認するまで維持する。
+ハグラビサイトは公開済み。主要ページはindex,follow、robots.txtはAllow: /、canonicalとsitemap.xmlを設定済み。Search Consoleの所有権確認とサイトマップ送信はユーザーが完了と報告。トップページのインデックス登録リクエストも送信済み。Googleによる実際のインデックス登録・検索順位は未確認。商品写真は掲載許諾が確認できるまで転載しない。新規ページはサイトマップ更新を忘れずに行う。
