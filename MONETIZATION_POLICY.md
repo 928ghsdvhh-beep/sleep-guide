@@ -7,6 +7,8 @@
 - 商品画像は広告主が許可した素材または正規API等の利用条件に沿ったものだけ掲載。
 - Amazonは型番とASINを照合してから、正規アソシエイトリンクを使う。IDは moon12-22。
 - 10件以上の実在レビューを検証できない場合は星評価・レビューまとめを掲載しない。
-- 検証完了まで noindex を維持する。
+- ハグラビサイトは公開済みでindex,follow設定。未検証の情報・広告リンク・商品画像を公開前後に点検する。
+- A8.netの「広告掲載URL管理」に広告を掲載した実際のページURLを登録する。登録完了は未確認。
+- Search Consoleのサイトマップ登録はユーザーが完了と報告。掲載・収益発生は保証されない。
 - A8.net公開案件一覧: https://support.a8.net/as/HintOfProgram/ranking/life.php
 - A8.net商品リンク利用上の注意: https://knowledge.adv.a8.net/knowledge/product-link
