@@ -20,3 +20,10 @@
 - URL: https://sleep-guide.pages.dev
 - Cloudflare管理画面のプロジェクト一覧スクリーンショットで確認済み。
 - デプロイ履歴あり。HTTPアクセス・表示動作・検索公開状態は別途検証する。
+
+## 2026-11-11 SEO・AI検索点検（最新状態）
+
+- mainの公開用HTMLは検索許可済み。上記の公開準備中・noindex維持の記録は過去の状態。個別ページのnoindexは別途判断し、今回解除していない。
+- canonicalとサイトマップをCloudflare Pagesの拡張子なしURLに統一。本文と整合するArticle/WebSite/WebPage構造化データを整備。架空の評価・日付は追加していない。
+- 404.htmlを設置し、存在しないURLがトップページ扱いになる動作を防止。広告コードは保持。
+- Google登録・AI検索への引用は未確認。公開反映は別途確認する。

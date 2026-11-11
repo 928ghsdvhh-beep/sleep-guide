@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sleep-guide.pages.dev/</loc></url>
-  <url><loc>https://sleep-guide.pages.dev/hugravi-size-choice.html</loc></url>
-  <url><loc>https://sleep-guide.pages.dev/hugravi-weight-wash.html</loc></url>
-  <url><loc>https://sleep-guide.pages.dev/weighted-blanket-checklist.html</loc></url>
-  <url><loc>https://sleep-guide.pages.dev/about.html</loc></url>
-  <url><loc>https://sleep-guide.pages.dev/privacy.html</loc></url>
+<url><loc>https://sleep-guide.pages.dev/hugravi-size-choice</loc></url>
+<url><loc>https://sleep-guide.pages.dev/hugravi-weight-wash</loc></url>
+<url><loc>https://sleep-guide.pages.dev/</loc></url>
+<url><loc>https://sleep-guide.pages.dev/weighted-blanket-checklist</loc></url>
 </urlset>
