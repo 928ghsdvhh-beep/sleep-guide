@@ -1,0 +1,5 @@
+
+/docs/*
+  X-Robots-Tag: noindex
+/scripts/*
+  X-Robots-Tag: noindex

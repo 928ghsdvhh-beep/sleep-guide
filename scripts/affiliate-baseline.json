@@ -1,0 +1,37 @@
+{
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "tracking_ids": [
+    "moon12-22"
+  ],
+  "protected_html_sha256": {
+    "about.html": [],
+    "hugravi-weight-wash.html": [
+      "23a7a7224c782707d3c0d70f1866f3cba087b307d401d1fa0dedff9b4c1f1bfd",
+      "24caf1a1bdf77e8f2133c6493b099515b25335b2d1fe55b229cb29a3e67254e6",
+      "4ae0b34daea708cc769c3692347617b54e39700efdd92e5e3d5444b10cb2d1aa",
+      "866a02f32fba5fca90db27f98427d1cca5897a787d951ec50b4305f4612dbec8",
+      "ceed7ab9fb1071f5ed6cde76d061d833e69726643358185f775be3fa0a8c9679",
+      "d0f50db7a39db53fc3930ac68b864768a65e2932c5346cda9bc55fe3c23317f7",
+      "d8f356bb7d8db14565a5104a6ff704b302f2a7b4f9c8c25580efe50a0da900cc"
+    ],
+    "hugravi-size-choice.html": [
+      "24caf1a1bdf77e8f2133c6493b099515b25335b2d1fe55b229cb29a3e67254e6",
+      "866a02f32fba5fca90db27f98427d1cca5897a787d951ec50b4305f4612dbec8",
+      "aebbba87db0e7cefcd2e6d59949769b2a8ea42e3061359e4a7b908db014bb9db"
+    ],
+    "index.html": [
+      "4482f408a69cabe7085eda28560d7dc53709ce70518df5d0e55e7c4ead319a95",
+      "b99711f4b921b0e4692394d171dbe62bfeac8ac536b62fa137e08a59001667df",
+      "c39972375be0fbc8c2dcb451c8b37ed12edfa6a736388944310318549e31a691",
+      "d78f6daeb563a709e83e08b1d3cacebe5e16fa5d62884563e4d4f187a526847c",
+      "f3b8ce90dbc4fd889b5fa5fc292f3290eec1d63fa557c0be828f245b54b9b294"
+    ],
+    "weighted-blanket-checklist.html": [
+      "24caf1a1bdf77e8f2133c6493b099515b25335b2d1fe55b229cb29a3e67254e6",
+      "866a02f32fba5fca90db27f98427d1cca5897a787d951ec50b4305f4612dbec8"
+    ],
+    "404.html": [],
+    "privacy.html": [],
+    "googled51db09eaf8187a0.html": []
+  }
+}
