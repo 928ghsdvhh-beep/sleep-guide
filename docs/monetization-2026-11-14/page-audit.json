@@ -6,6 +6,62 @@
   "issues": [],
   "page_audit": [
     {
+      "path": "hugravi-size-choice.html",
+      "title": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較｜寝具ガイド",
+      "h1": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較",
+      "description": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較。メーカー公式情報をもとに購入前の注意点を整理。",
+      "canonical": "https://sleep-guide.pages.dev/hugravi-size-choice",
+      "noindex": false,
+      "text_characters": 1454,
+      "html_bytes": 8039,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 3,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜寝具ガイド",
+      "h1": "プライバシーポリシー",
+      "description": "寝具ガイドにおける個人情報・広告・アクセス解析の取り扱いについて。",
+      "canonical": "https://sleep-guide.pages.dev/privacy",
+      "noindex": true,
+      "text_characters": 418,
+      "html_bytes": 2790,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "index.html",
+      "title": "ハグラビの購入前ガイド｜寝具ガイド",
+      "h1": "ハグラビを選ぶ前に、知っておきたいこと。",
+      "description": "ハグラビの仕様・費用・注意点を一次情報から確認する購入前ガイド",
+      "canonical": "https://sleep-guide.pages.dev/",
+      "noindex": false,
+      "text_characters": 907,
+      "html_bytes": 7345,
+      "schema_types": [
+        "WebSite"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 6,
+      "images": 3,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
       "path": "about.html",
       "title": "サイトについて｜寝具ガイド",
       "h1": "サイトについて",
@@ -30,53 +86,19 @@
       "description": "ハグラビは洗濯できる？6.8kg・9kgの重さと手入れを確認。メーカー公表仕様と購入前の注意点を確認。",
       "canonical": "https://sleep-guide.pages.dev/hugravi-weight-wash",
       "noindex": false,
-      "text_characters": 2029,
-      "html_bytes": 12931,
+      "text_characters": 2108,
+      "html_bytes": 13114,
       "schema_types": [
         "Article",
         "FAQPage",
-        "BreadcrumbList"
+        "Question",
+        "Answer",
+        "BreadcrumbList",
+        "ListItem"
       ],
       "internal_links": 5,
       "affiliate_links": 7,
       "images": 1,
-      "review_summary_added": false,
-      "reachable_from_home": true
-    },
-    {
-      "path": "hugravi-size-choice.html",
-      "title": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較｜寝具ガイド",
-      "h1": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較",
-      "description": "ハグラビはS・Mどちらを選ぶ？サイズ・重さ・洗濯負担を比較。メーカー公式情報をもとに購入前の注意点を整理。",
-      "canonical": "https://sleep-guide.pages.dev/hugravi-size-choice",
-      "noindex": false,
-      "text_characters": 1454,
-      "html_bytes": 8039,
-      "schema_types": [
-        "Article",
-        "BreadcrumbList"
-      ],
-      "internal_links": 5,
-      "affiliate_links": 3,
-      "images": 1,
-      "review_summary_added": false,
-      "reachable_from_home": true
-    },
-    {
-      "path": "index.html",
-      "title": "ハグラビの購入前ガイド｜寝具ガイド",
-      "h1": "ハグラビを選ぶ前に、知っておきたいこと。",
-      "description": "ハグラビの仕様・費用・注意点を一次情報から確認する購入前ガイド",
-      "canonical": "https://sleep-guide.pages.dev/",
-      "noindex": false,
-      "text_characters": 907,
-      "html_bytes": 7345,
-      "schema_types": [
-        "WebSite"
-      ],
-      "internal_links": 6,
-      "affiliate_links": 6,
-      "images": 3,
       "review_summary_added": false,
       "reachable_from_home": true
     },
@@ -91,7 +113,8 @@
       "html_bytes": 8962,
       "schema_types": [
         "Article",
-        "BreadcrumbList"
+        "BreadcrumbList",
+        "ListItem"
       ],
       "internal_links": 6,
       "affiliate_links": 2,
@@ -114,24 +137,6 @@
       "images": 0,
       "review_summary_added": false,
       "reachable_from_home": false
-    },
-    {
-      "path": "privacy.html",
-      "title": "プライバシーポリシー｜寝具ガイド",
-      "h1": "プライバシーポリシー",
-      "description": "寝具ガイドにおける個人情報・広告・アクセス解析の取り扱いについて。",
-      "canonical": "https://sleep-guide.pages.dev/privacy",
-      "noindex": true,
-      "text_characters": 418,
-      "html_bytes": 2790,
-      "schema_types": [
-        "WebPage"
-      ],
-      "internal_links": 3,
-      "affiliate_links": 0,
-      "images": 0,
-      "review_summary_added": false,
-      "reachable_from_home": true
     }
   ]
 }
