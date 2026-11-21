@@ -1,3 +1,16 @@
 /* Existing layout retained: readable comparisons and visible keyboard focus. */
 .decision-guide{margin:30px 0;overflow-wrap:anywhere}.decision-guide h2{font-size:clamp(19px,4.8vw,23px);line-height:1.6}.decision-table{max-width:100%;overflow-x:auto;margin:18px 0}.decision-table table{border-collapse:collapse;width:100%;min-width:540px;text-align:left;font-size:14px}.decision-table th,.decision-table td{padding:12px;border:1px solid #dce4e2;vertical-align:top;white-space:normal}.decision-table thead{background:#eff3f1}.decision-guide a:focus-visible,.decision-table:focus-visible{outline:3px solid #b47625;outline-offset:3px}.decision-guide li{margin:8px 0}.decision-guide li a{display:inline-block;padding:5px 0}.audit-breadcrumb{font-size:13px;margin:14px 0;overflow-wrap:anywhere}
 @media(max-width:600px){.decision-guide{min-width:0}.decision-table table{font-size:13px}.decision-table th,.decision-table td{padding:10px}}
+
+.sleep-quick-links{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0;}
+.sleep-quick-links a{display:block;padding:.65rem .8rem;border:1px solid #cbd9d5;border-radius:.4rem;background:#f5faf8;}
+.sleep-size-figure,.sleep-steps{margin:1.5rem 0;padding:clamp(.8rem,3vw,1.2rem);border:1px solid #dce4e2;border-radius:.65rem;background:#f5faf8;}
+.sleep-size-diagrams{display:flex;justify-content:center;align-items:end;gap:clamp(.65rem,5vw,3rem);margin-bottom:.8rem;}
+.sleep-size-column{display:flex;flex-direction:column;align-items:center;gap:.2rem;min-width:0;}
+.sleep-blanket{border:1px solid #5a8784;border-radius:.3rem;background:#d2e7e3;}
+.sleep-blanket-small{width:clamp(3.65rem,18vw,6.1rem);aspect-ratio:122/198;}
+.sleep-blanket-medium{width:clamp(4.55rem,22.43vw,7.6rem);aspect-ratio:152/203;background:#accbc7;}
+.sleep-steps h2{margin-top:0;}
+.sleep-steps ol{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,12rem),1fr));gap:.65rem;padding-left:1.4rem;}
+.sleep-steps li{padding:.55rem .6rem;background:#fff;border-radius:.3rem;}
+.sleep-steps li span{display:block;}
